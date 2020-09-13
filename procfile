@@ -1,1 +1,1 @@
-worker: python Sahithi-app.py
+worker: python Sahithi-app-bot.py
